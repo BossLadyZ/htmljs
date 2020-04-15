@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <style media="screen">
-   .doth{
+  li .doth{
   color : red;
   }
 </style>
@@ -19,7 +19,7 @@
     <li><em>Query 20:</em> <span class="doth">Doth</span> not this Aethereal Medium in passing out of Water, Glass, Crystal and other compact and dense Bodies into empty Spaces, grown denser and denser by degrees, and by that means refract the Rays of Light not in a point, but by bending them gradually in curve Lines? And <span class="doth">doth</span> not the gradual condensation of this Medium extend to some distance from the Bodies, and thereby cause the Inflexions of the Rays of Light, which pass by the edges of dense Bodies, at some distance from the Bodies?</li>
     </ul>
 
-    <p>Language note: Newton originally used <span id="doth">"doth"</span>, which is the same as "does".</p>
+    <p>Language note: Newton originally used <span class="doth">"doth"</span>, which is the same as "does".</p>
 
     <p><a href="http://homepages.wmich.edu/~mcgrew/nq.htm">See more</a></p>
 
